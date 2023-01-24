@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:NavigationCoordinatorKit">
+   </FileRef>
+   <FileRef
+      location = "group:UIComponentsKit">
+   </FileRef>
+   <FileRef
+      location = "group:TransactionsWPM">
+   </FileRef>
+   <FileRef
+      location = "group:NetworkKit">
+   </FileRef>
+   <FileRef
+      location = "group:WorldOfPAYBACK/WorldOfPAYBACK.xcodeproj">
+   </FileRef>
+</Workspace>
